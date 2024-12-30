@@ -215,12 +215,12 @@ def create_full_ml_project(project_name):
 # Call the function to create the project
 create_full_ml_project("FullMLProject")
 
----
+```
 
 Below is an overview of the folder structure for FullMLProject:
 ## FullMLProject Folder Structure
 
-
+```plain
 FullMLProject/
 │
 ├── src/
